@@ -1,4 +1,4 @@
-# 📝 Personal Todo API
+# 📝 Personal Todo 
 
 A clean Express + MongoDB backend for personal task management with **priority levels** and **due dates**.
 
